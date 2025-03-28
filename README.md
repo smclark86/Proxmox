@@ -1,6 +1,6 @@
 <div style="border: 2px solid #d1d5db; padding: 20px; border-radius: 8px; background-color: #f9fafb;"> <h2 align="center">Proxmox VE Helper-Scripts: A Community Legacy</h2> <p>This is not the official repository, so please use at your own risk and by your own discretion.</p> </div>
 
-<p>This fork was created for personal learning and use, and is not intended to be replacement for what <a href="https://github.com/tteck">tteck</a> or <a href="https://github.com/community-scripts">Community-Scripts</a> has created or refined.</p>
+<p>This fork was created for personal learning and use, and is not intended to be a replacement for what <a href="https://github.com/tteck">tteck</a> or <a href="https://github.com/community-scripts">Community-Scripts</a> has created or refined.</p>
 
 ---
 
